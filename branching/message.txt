@@ -1,1 +1,6 @@
+Welcome Student - Feature A and Feature B
+<<<<<<< HEAD
 Welcome Student - Feature B
+=======
+Welcome Student - Feature A
+>>>>>>> feature-a
